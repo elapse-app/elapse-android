@@ -1,18 +1,12 @@
 # elapse-android
-<table>
-<td width="200px">
-<img src="images/elapseLogo.png" alt="elapse logo" width="100%" style="border-radius: 20%;"/>
-</td>
-<td>
-Android beta releases for Elapse!<br>
-Please do not download beta releases for Elapse Android from anywhere but here.<br>
-We hope you enjoy using Elapse!<br>
-<a href="https://elapseapp.com/">https://elapseapp.com/</a><br><br>
-<b>Current Version</b>: Beta V1.0.1<br>
-Join our Discord Server to be the first to know about updates to Elapse! <br>
-<a href=https://discord.com/invite/2BDqbeqrJx>https://discord.com/invite/2BDqbeqrJx</a>
-</td>
-</table>
+<img src="images/elapseLogo.png" alt="elapse logo" width="200px" style="border-radius: 20%;"/>
+
+Android beta releases for Elapse!  
+Please do not download beta releases for Elapse Android from anywhere but here.  
+Join our Discord Server to be the first to know about updates to Elapse!
+[https://discord.com/invite/2BDqbeqrJx](https://discord.com/invite/2BDqbeqrJ)  
+**Current Version**: Beta V1.0.1
+
 
 ## Changelogs:
 
