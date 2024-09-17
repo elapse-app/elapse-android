@@ -1,9 +1,9 @@
 # elapse-android
-<table>
-<td width="200px">
+<table style="border: none;">
+<td width="200px" style="border: none;">
 <img src="images/elapseLogo.png" alt="elapse logo" width="100%" style="border-radius: 20%;"/>
 </td>
-<td>
+<td style="border: none;">
 Android beta releases for Elapse!<br>
 Please do not download beta releases for Elapse Android from anywhere but here.<br>
 We hope you enjoy using Elapse!<br>
