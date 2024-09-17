@@ -22,6 +22,7 @@ Join our Discord Server to be the first to know about updates to Elapse! <br>
 
 - Added a sign out button  
 - Fixed creating ScoutSheets without a tournament
+- Fixed TeamGroup creation
 - Fixed World Skills and TrueSkill rankings not properly showing the correct data for the selected season in tournament rankings  
 - Fixed user sign ins  
 - Fixed white screens on the world skills and upcoming signature events pages  
