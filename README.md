@@ -5,7 +5,8 @@ Android beta releases for Elapse!
 Please do not download beta releases for Elapse Android from anywhere but here.  
 Join our Discord Server to be the first to know about updates to Elapse!
 [https://discord.com/invite/2BDqbeqrJx](https://discord.com/invite/2BDqbeqrJ)  
-**Current Version**: Beta V1.0.1
+  
+**Current Version**: 0.0.1
 
 
 ## Changelogs:
