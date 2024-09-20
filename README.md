@@ -9,9 +9,16 @@ Join our Discord Server to be the first to know about updates to Elapse!
 
 
 ## Changelogs:
-
 <details open>
-<summary>Beta V1.0.1</summary>
+<summary>V0.0.1</summary>
+<hr>
+
+- Fixed sign in/out bugs
+- Fixed white screens at launch
+</details>
+
+<details>
+<summary>V0.0.0</summary>
 <hr>
 
 - Added a sign out button  
