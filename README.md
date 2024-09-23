@@ -1,16 +1,24 @@
 # elapse-android
-<img src="images/elapseLogo.png" alt="elapse logo" width="200px" style="border-radius: 20%;"/>
+<img src="elapseLogo.png" alt="elapse logo" width="200px" style="border-radius: 20%;"/>
 
 Android beta releases for Elapse!  
 Please do not download beta releases for Elapse Android from anywhere but here.  
 Join our Discord Server to be the first to know about updates to Elapse!
 [https://discord.com/invite/2BDqbeqrJx](https://discord.com/invite/2BDqbeqrJ)  
   
-**Current Version**: 0.0.1
+**Current Version**: 0.0.2
 
 
 ## Changelogs:
 <details open>
+<summary>V0.0.2</summary>
+<hr>
+
+- Fixed numerous white screens
+- Fixed various bugs
+</details>
+
+<details>
 <summary>V0.0.1</summary>
 <hr>
 
