@@ -6,12 +6,38 @@ Please do not download beta releases for Elapse Android from anywhere but here.
 Join our Discord Server to be the first to know about updates to Elapse!
 [https://discord.com/invite/2BDqbeqrJx](https://discord.com/invite/2BDqbeqrJ)  
   
-**Current Version**: 0.0.2
+**Current Version**: 0.0.3 (Build 13)
 
 
 ## Changelogs:
 <details open>
-<summary>V0.0.2</summary>
+<summary>V0.0.3 (Build 13)</summary>
+<hr>
+
+Make sure to uninstall any previous versions before installing V0.0.3, due to some breaking updates in this version!  
+  
+- Added pull-to-refresh
+- Added Upcoming Local events
+- Added Account Settings page
+- Added/updated groups
+- Updated styling/formatting on numerous pages
+- Updated settings
+- Updated email display (now blurred by default)
+- Updated Scoutsheets
+- Updated Scoutsheet Photos, saving metadata to images
+- Updated onboarding
+- Updated deleting account requiring re-auth
+- Fixed numerous white screens
+- Fixed formatting errors
+- Fixed sign in issues
+- Fixed account deletion
+- Squashed some more bugs
+
+And much much more!
+</details>
+
+<details>
+<summary>V0.0.2 (Build 12)</summary>
 <hr>
 
 - Fixed numerous white screens
@@ -19,7 +45,7 @@ Join our Discord Server to be the first to know about updates to Elapse!
 </details>
 
 <details>
-<summary>V0.0.1</summary>
+<summary>V0.0.1 (Build 11)</summary>
 <hr>
 
 - Fixed sign in/out bugs
@@ -27,7 +53,7 @@ Join our Discord Server to be the first to know about updates to Elapse!
 </details>
 
 <details>
-<summary>V0.0.0</summary>
+<summary>V0.0.0 (Build 10)</summary>
 <hr>
 
 - Added a sign out button  
