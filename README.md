@@ -11,6 +11,16 @@ Join our Discord Server to be the first to know about updates to Elapse!
 
 ## Changelogs:
 <details open>
+<summary>V0.0.4 (Build 14)</summary>
+<hr>
+
+<b>Please make sure to uninstall any instance of elapse before installing this update!</b> We've made several breaking changes since last update.
+- Fixed a major breaking bug
+- Squashed more bugs
+
+</details>
+
+<details open>
 <summary>V0.0.3 (Build 13)</summary>
 <hr>
 
@@ -31,7 +41,7 @@ Make sure to uninstall any previous versions before installing V0.0.3, due to so
 - Fixed formatting errors
 - Fixed sign in issues
 - Fixed account deletion
-- Squashed some more bugs
+- Squashed more bugs!
 
 And much much more!
 </details>
