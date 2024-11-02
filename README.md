@@ -6,11 +6,31 @@ Please do not download beta releases for Elapse Android from anywhere but here.
 Join our Discord Server to be the first to know about updates to Elapse!
 [https://discord.com/invite/2BDqbeqrJx](https://discord.com/invite/2BDqbeqrJ)  
   
-**Current Version**: 0.0.3 (Build 13)
+**Current Version**: 0.0.5 (Build 15)
 
 
 ## Changelogs:
 <details open>
+<summary>V0.0.5 (Build 15)</summary>
+<hr>
+
+This build fixes a lot of issues with tournament mode, groups and many of the other bugs from the previous build. If no bugs are present here, this build will be submitted for v1
+- Added the ability for Elapse to be used without an account
+- Added a reset password button
+- Updated awards in team pages
+- Updated refresh screen timeout
+- Fixed ScoutSheets not saving between acounts
+- Fixed issues with errors being thrown in tournaments
+- Fixed issues with team members not updating
+- Fixed users not being signed out if the account was deleted 
+- Fixed issues with updating TM data
+- Fixed issues with tournaments not loading correctly
+- Fixed formatting and grammar issues
+- Squashed more bugs
+
+</details>
+
+<details>
 <summary>V0.0.4 (Build 14)</summary>
 <hr>
 
@@ -20,7 +40,7 @@ Join our Discord Server to be the first to know about updates to Elapse!
 
 </details>
 
-<details open>
+<details>
 <summary>V0.0.3 (Build 13)</summary>
 <hr>
 
