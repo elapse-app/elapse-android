@@ -1,16 +1,28 @@
 # elapse-android
 <img src="elapseLogo.png" alt="elapse logo" width="200px" style="border-radius: 20%;"/>
 
-Android beta releases for Elapse!  
-Please do not download beta releases for Elapse Android from anywhere but here.  
+Android releases for Elapse!  
+Please do not download releases for Elapse Android from anywhere but here and the Google Play Store.  
 Join our Discord Server to be the first to know about updates to Elapse!
 [https://discord.com/invite/2BDqbeqrJx](https://discord.com/invite/2BDqbeqrJ)  
   
-**Current Version**: 0.0.5 (Build 15)
-
+<u>**Current Version**: v1.0.0</u>  
+Google Play Store Link  
+[Apple App Store Link](https://apps.apple.com/ca/app/elapse/id6596757269
+)
 
 ## Changelogs:
 <details open>
+<summary>V1.0.0</summary>
+<hr>
+
+No major changes from Beta v0.0.5
+
+</details>
+  
+### <u>Beta Releases</u>
+
+<details>
 <summary>V0.0.5 (Build 15)</summary>
 <hr>
 
