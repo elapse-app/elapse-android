@@ -4,19 +4,44 @@
 Android releases for Elapse!  
 Please do not download releases for Elapse Android from anywhere but here and the Google Play Store.  
 Join our Discord Server to be the first to know about updates to Elapse!
-[https://discord.com/invite/2BDqbeqrJx](https://discord.com/invite/2BDqbeqrJ)  
+[https://discord.gg/2BDqbeqrJx](https://discord.gg/2BDqbeqrJx)  
   
-<u>**Current Version**: v1.0.0</u>  
-Google Play Store Link  
+<u>**Current Version**: v1.0.2</u>  
+[Google Play Store Link](https://play.google.com/store/apps/details?id=com.elapseapp.elapse_app)  
 [Apple App Store Link](https://apps.apple.com/ca/app/elapse/id6596757269
 )
 
 ## Changelogs:
 <details open>
+<summary>V1.0.2</summary>
+<hr>
+
+This is the version that was submitted to the Google Play Store!
+- Fixed bugs with login
+- Fixed crashes on Android
+- Squashed more bugs
+
+</details>
+
+<details>
+<summary>V1.0.1</summary>
+<hr>
+
+This android release is broken and will not open, and has been removed. Sorry!  
+If it had worked, it would have
+- Fixed issues with the app resetting your logged in state/resets without an internet connection
+- Fixed crashes when loading world skills
+- Fixed bugs with Scoutsheets
+- Squashed more bugs
+
+</details>
+
+<details>
 <summary>V1.0.0</summary>
 <hr>
 
-No major changes from Beta v0.0.5
+No major changes from Beta v0.0.5  
+This is the version that was submitted to the App Store!
 
 </details>
   
