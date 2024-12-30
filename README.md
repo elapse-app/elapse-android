@@ -6,13 +6,29 @@ Please do not download releases for Elapse Android from anywhere but here and th
 Join our Discord Server to be the first to know about updates to Elapse!
 [https://discord.gg/2BDqbeqrJx](https://discord.gg/2BDqbeqrJx)  
   
-<u>**Current Version**: v1.0.2</u>  
+<u>**Current Version**: v1.0.3</u>  
 [Google Play Store Link](https://play.google.com/store/apps/details?id=com.elapseapp.elapse_app)  
 [Apple App Store Link](https://apps.apple.com/ca/app/elapse/id6596757269
 )
 
 ## Changelogs:
 <details open>
+<summary>V1.0.3</summary>
+<hr>
+
+Opening source soon!
+- Added team names to rankings and around the app
+- Added new skills widget
+- Added filtering and sorting to all teams list
+- Fixed styling/formatting errors
+- Fixed skills rankings
+- Fixed welcome screen
+- Updated build scripts
+- Squashed more bugs
+
+</details>
+
+<details>
 <summary>V1.0.2</summary>
 <hr>
 
