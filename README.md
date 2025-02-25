@@ -13,11 +13,13 @@ Join our Discord Server to be the first to know about updates to Elapse!
 
 ## Changelogs:
 <details open>
-<summary>V1.0.4</summary>
+<summary>V1.0.4/V1.0.5</summary>
 <hr>
 
 - Fixed a possible crash with Tournament Mode when not all event data was available
 - Fixed a bug where the Enter Tournament Mode button wasn't visible after an event had started
+- Fixed internal namespace issues / setup in Firebase
+- Implemented Match Notifs
 - Squashed more bugs
 
 </details>
