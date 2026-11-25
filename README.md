@@ -6,13 +6,23 @@ Please do not download releases for Elapse Android from anywhere but here and th
 Join our Discord Server to be the first to know about updates to Elapse!
 [https://discord.gg/2BDqbeqrJx](https://discord.gg/2BDqbeqrJx)  
   
-<u>**Current Version**: v1.1.0</u>  
+<u>**Current Version**: v1.1.1</u>  
 [Google Play Store Link](https://play.google.com/store/apps/details?id=com.elapseapp.elapse_app)  
 [Apple App Store Link](https://apps.apple.com/ca/app/elapse/id6596757269
 )
 
 ## Changelogs:
 <details open>
+<summary>V1.1.1</summary>
+<hr>
+
+- Updated for the Override Season!
+- Switched from using vrc-data-analysis to our in-house [vexdex](https://github.com/elapse-app/vexdex) analysis software
+- updated to the new vexevents API (from robotevents)
+
+</details>
+
+<details>
 <summary>V1.1.0</summary>
 <hr>
 
